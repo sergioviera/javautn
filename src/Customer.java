@@ -18,7 +18,7 @@ public class Customer {
 	}
 
 	public String toString(){
-		return id + "- " + name + " - domicilio: " + address;
+		return id + "- " + name + " - Domicilio: " + address;
 	}
 	
 	public boolean equals(Customer c){
