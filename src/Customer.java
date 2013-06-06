@@ -8,6 +8,7 @@ public class Customer {
 	private Date lastVisit;
 	private Date birthday;
 	
+	
 	private static long lastId = 0;
 	
 	public Customer(){
