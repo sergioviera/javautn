@@ -1,6 +1,7 @@
 import java.util.Date;
 
 public class Customer {
+
 	
 	private long id;
 	private String name;
